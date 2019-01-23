@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/c81944/Exercism/scala/space-age/src/main/scala/quicktest.scala:33:5: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m    println(SpaceAge.onEarth(1000000000))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/c81944/Exercism/scala/space-age/src/main/scala/quicktest.scala:34:5: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m    println(SpaceAge.onMercury(2134835688))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

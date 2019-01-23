@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/c81944/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:8:26: ':' expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    def onMercury(seconds) = onEarth(seconds)/0.2408467[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/c81944/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:15:1: identifier expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
